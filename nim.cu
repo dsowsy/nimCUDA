@@ -76,14 +76,14 @@ int main() {
   cudaMalloc(&d_state1, sizeof(curandState_t));
   InitializeCurand<<<1, 1>>>(d_state1);
 
+  curandState_t* d_state2;
+  cudaMalloc(&d_state2, sizeof(curandState_t));
+  InitializeCurand<<<1, 1>>>(d_state2);
+  
   if (num_gpus > 1) {
     cudaSetDevice(1);  // Set the second GPU as the current device
     cudaMalloc(&d_pile2, sizeof(int));
     cudaMemcpy(d_pile2, &pile_size, sizeof(int), cudaMemcpyHostToDevice);
-
-    curandState_t* d_state2;
-    cudaMalloc(&d_state2, sizeof(curandState_t));
-    InitializeCurand<<<1, 1>>>(d_state2);
 
     std::cout << "There are " << num_gpus << " present. Executing GPU strategy." << std::endl;
   } else {

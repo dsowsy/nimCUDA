@@ -12,7 +12,7 @@ Each player randomly picks a number of sticks from the pile.
 The code is meant to illustrate a basic knowledge of CUDA coding by creating 2 player kernels
 that randomly pick up sticks on a multi GPU system by interrogating the API to determine
 how many GPUs are present. If only 1 GPU is present the implementation fallback uses CUDA streams
-per player. The number of sticks in the pile is betweeen 10 and 100.
+per player. The number of sticks in the pile is between 10 and 100.
 
 # How to build and run from Makefile
 ```

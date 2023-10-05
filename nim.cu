@@ -135,7 +135,7 @@ int main() {
 
     // Check for win condition
     if (pile_size == 0) {
-      std::cout << (pile_size % 2 == 0 ? "Player 2" : "Player 1") << " wins!\n";
+      std::cout << (player_turn == 1 ? "Player 2" : "Player 1") << " wins!\n";
       break;
     }
   }

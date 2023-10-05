@@ -1,0 +1,762 @@
+coder@c96f1767e82a:~/project/nimCUDA$ for i in {1..100}; do ./nim.exe; done
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 73.
+Player 1 takes 25 stick(s). 48 stick(s) remain.
+Player 2 takes 5 stick(s). 43 stick(s) remain.
+Player 1 takes 26 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 73.
+Player 1 takes 25 stick(s). 48 stick(s) remain.
+Player 2 takes 5 stick(s). 43 stick(s) remain.
+Player 1 takes 26 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 73.
+Player 1 takes 25 stick(s). 48 stick(s) remain.
+Player 2 takes 5 stick(s). 43 stick(s) remain.
+Player 1 takes 26 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 69.
+Player 1 takes 58 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 69.
+Player 1 takes 58 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 69.
+Player 1 takes 58 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 69.
+Player 1 takes 58 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 69.
+Player 1 takes 58 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 52.
+Player 1 takes 22 stick(s). 30 stick(s) remain.
+Player 2 takes 5 stick(s). 25 stick(s) remain.
+Player 1 takes 8 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 52.
+Player 1 takes 22 stick(s). 30 stick(s) remain.
+Player 2 takes 5 stick(s). 25 stick(s) remain.
+Player 1 takes 8 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 52.
+Player 1 takes 22 stick(s). 30 stick(s) remain.
+Player 2 takes 5 stick(s). 25 stick(s) remain.
+Player 1 takes 8 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 52.
+Player 1 takes 22 stick(s). 30 stick(s) remain.
+Player 2 takes 5 stick(s). 25 stick(s) remain.
+Player 1 takes 8 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 52.
+Player 1 takes 22 stick(s). 30 stick(s) remain.
+Player 2 takes 5 stick(s). 25 stick(s) remain.
+Player 1 takes 8 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 52.
+Player 1 takes 22 stick(s). 30 stick(s) remain.
+Player 2 takes 5 stick(s). 25 stick(s) remain.
+Player 1 takes 8 stick(s). 17 stick(s) remain.
+Player 2 takes 16 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 86.
+Player 1 takes 40 stick(s). 46 stick(s) remain.
+Player 2 takes 29 stick(s). 17 stick(s) remain.
+Player 1 takes 12 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 86.
+Player 1 takes 40 stick(s). 46 stick(s) remain.
+Player 2 takes 29 stick(s). 17 stick(s) remain.
+Player 1 takes 12 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 86.
+Player 1 takes 40 stick(s). 46 stick(s) remain.
+Player 2 takes 29 stick(s). 17 stick(s) remain.
+Player 1 takes 12 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 86.
+Player 1 takes 40 stick(s). 46 stick(s) remain.
+Player 2 takes 29 stick(s). 17 stick(s) remain.
+Player 1 takes 12 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 86.
+Player 1 takes 40 stick(s). 46 stick(s) remain.
+Player 2 takes 29 stick(s). 17 stick(s) remain.
+Player 1 takes 12 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 15.
+Player 1 takes 4 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 15.
+Player 1 takes 4 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 15.
+Player 1 takes 4 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 15.
+Player 1 takes 4 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 15.
+Player 1 takes 4 stick(s). 11 stick(s) remain.
+Player 2 takes 11 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 71.
+Player 1 takes 3 stick(s). 68 stick(s) remain.
+Player 2 takes 29 stick(s). 39 stick(s) remain.
+Player 1 takes 10 stick(s). 29 stick(s) remain.
+Player 2 takes 27 stick(s). 2 stick(s) remain.
+Player 1 takes 2 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 71.
+Player 1 takes 3 stick(s). 68 stick(s) remain.
+Player 2 takes 29 stick(s). 39 stick(s) remain.
+Player 1 takes 10 stick(s). 29 stick(s) remain.
+Player 2 takes 27 stick(s). 2 stick(s) remain.
+Player 1 takes 2 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 71.
+Player 1 takes 3 stick(s). 68 stick(s) remain.
+Player 2 takes 29 stick(s). 39 stick(s) remain.
+Player 1 takes 10 stick(s). 29 stick(s) remain.
+Player 2 takes 27 stick(s). 2 stick(s) remain.
+Player 1 takes 2 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 71.
+Player 1 takes 3 stick(s). 68 stick(s) remain.
+Player 2 takes 29 stick(s). 39 stick(s) remain.
+Player 1 takes 10 stick(s). 29 stick(s) remain.
+Player 2 takes 27 stick(s). 2 stick(s) remain.
+Player 1 takes 2 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 71.
+Player 1 takes 3 stick(s). 68 stick(s) remain.
+Player 2 takes 29 stick(s). 39 stick(s) remain.
+Player 1 takes 10 stick(s). 29 stick(s) remain.
+Player 2 takes 27 stick(s). 2 stick(s) remain.
+Player 1 takes 2 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 62.
+Player 1 takes 62 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 62.
+Player 1 takes 62 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 62.
+Player 1 takes 62 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 62.
+Player 1 takes 62 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 62.
+Player 1 takes 62 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 62.
+Player 1 takes 62 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 39.
+Player 1 takes 22 stick(s). 17 stick(s) remain.
+Player 2 takes 12 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 39.
+Player 1 takes 22 stick(s). 17 stick(s) remain.
+Player 2 takes 12 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 39.
+Player 1 takes 22 stick(s). 17 stick(s) remain.
+Player 2 takes 12 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 39.
+Player 1 takes 22 stick(s). 17 stick(s) remain.
+Player 2 takes 12 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 39.
+Player 1 takes 22 stick(s). 17 stick(s) remain.
+Player 2 takes 12 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 42.
+Player 1 takes 4 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 42.
+Player 1 takes 4 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 42.
+Player 1 takes 4 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 42.
+Player 1 takes 4 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 42.
+Player 1 takes 4 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 72.
+Player 1 takes 70 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 47.
+Player 1 takes 19 stick(s). 28 stick(s) remain.
+Player 2 takes 17 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 90.
+Player 1 takes 34 stick(s). 56 stick(s) remain.
+Player 2 takes 45 stick(s). 11 stick(s) remain.
+Player 1 takes 7 stick(s). 4 stick(s) remain.
+Player 2 takes 1 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 32.
+Player 1 takes 22 stick(s). 10 stick(s) remain.
+Player 2 takes 5 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 32.
+Player 1 takes 22 stick(s). 10 stick(s) remain.
+Player 2 takes 5 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 32.
+Player 1 takes 22 stick(s). 10 stick(s) remain.
+Player 2 takes 5 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 32.
+Player 1 takes 22 stick(s). 10 stick(s) remain.
+Player 2 takes 5 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 32.
+Player 1 takes 22 stick(s). 10 stick(s) remain.
+Player 2 takes 5 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 32.
+Player 1 takes 22 stick(s). 10 stick(s) remain.
+Player 2 takes 5 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 61.
+Player 1 takes 60 stick(s). 1 stick(s) remain.
+Player 2 takes 1 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 61.
+Player 1 takes 60 stick(s). 1 stick(s) remain.
+Player 2 takes 1 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 61.
+Player 1 takes 60 stick(s). 1 stick(s) remain.
+Player 2 takes 1 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 61.
+Player 1 takes 60 stick(s). 1 stick(s) remain.
+Player 2 takes 1 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 61.
+Player 1 takes 60 stick(s). 1 stick(s) remain.
+Player 2 takes 1 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 98.
+Player 1 takes 60 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 98.
+Player 1 takes 60 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 98.
+Player 1 takes 60 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 98.
+Player 1 takes 60 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 98.
+Player 1 takes 60 stick(s). 38 stick(s) remain.
+Player 2 takes 19 stick(s). 19 stick(s) remain.
+Player 1 takes 7 stick(s). 12 stick(s) remain.
+Player 2 takes 1 stick(s). 11 stick(s) remain.
+Player 1 takes 4 stick(s). 7 stick(s) remain.
+Player 2 takes 3 stick(s). 4 stick(s) remain.
+Player 1 takes 4 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 50.
+Player 1 takes 24 stick(s). 26 stick(s) remain.
+Player 2 takes 17 stick(s). 9 stick(s) remain.
+Player 1 takes 4 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 50.
+Player 1 takes 24 stick(s). 26 stick(s) remain.
+Player 2 takes 17 stick(s). 9 stick(s) remain.
+Player 1 takes 4 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 50.
+Player 1 takes 24 stick(s). 26 stick(s) remain.
+Player 2 takes 17 stick(s). 9 stick(s) remain.
+Player 1 takes 4 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 50.
+Player 1 takes 24 stick(s). 26 stick(s) remain.
+Player 2 takes 17 stick(s). 9 stick(s) remain.
+Player 1 takes 4 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 50.
+Player 1 takes 24 stick(s). 26 stick(s) remain.
+Player 2 takes 17 stick(s). 9 stick(s) remain.
+Player 1 takes 4 stick(s). 5 stick(s) remain.
+Player 2 takes 2 stick(s). 3 stick(s) remain.
+Player 1 takes 1 stick(s). 2 stick(s) remain.
+Player 2 takes 2 stick(s). 0 stick(s) remain.
+Player 2 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 57.
+Player 1 takes 7 stick(s). 50 stick(s) remain.
+Player 2 takes 45 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 57.
+Player 1 takes 7 stick(s). 50 stick(s) remain.
+Player 2 takes 45 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 57.
+Player 1 takes 7 stick(s). 50 stick(s) remain.
+Player 2 takes 45 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!
+There is only 1 GPU present. Executing streams strategy.
+Initial pile size is 57.
+Player 1 takes 7 stick(s). 50 stick(s) remain.
+Player 2 takes 45 stick(s). 5 stick(s) remain.
+Player 1 takes 3 stick(s). 2 stick(s) remain.
+Player 2 takes 1 stick(s). 1 stick(s) remain.
+Player 1 takes 1 stick(s). 0 stick(s) remain.
+Player 1 wins!

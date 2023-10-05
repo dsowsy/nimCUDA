@@ -13,3 +13,11 @@ The code is meant to illustrate a basic knowledge of CUDA coding by creating 2 p
 that randomly pick up sticks on a multi GPU system by interrogating the API to determine
 how many GPUs are present. If only 1 GPU is present the implementation fallback uses CUDA streams
 per player. The number of sticks in the pile is betweeen 10 and 100.
+
+# How to build and run from Makefile
+`cd nimCUDA`
+`make`
+`./nim.exe`
+
+# or to manually build
+`nvcc --std c++17 nim.cu -o nim.exe`

@@ -15,11 +15,12 @@ how many GPUs are present. If only 1 GPU is present the implementation fallback 
 per player. The number of sticks in the pile is betweeen 10 and 100.
 
 # How to build and run from Makefile
-`cd nimCUDA`
+```cd nimCUDA
+make
+./nim.exe
+```
 
-`make`
-
-`./nim.exe`
-
-# or to manually build
-`nvcc --std c++17 nim.cu -o nim.exe`
+# or to manually build and run
+```nvcc --std c++17 nim.cu -o nim.exe
+./nim.exe
+```
